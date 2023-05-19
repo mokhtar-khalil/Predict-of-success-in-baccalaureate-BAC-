@@ -1,7 +1,6 @@
-# Predict-of-success-in-baccalaureate-BAC-
+# Predict-of-success-in-baccalaureate-BAC-2021
 
 
-# Prediction of success probability : Bac 2021
 
 I tried to build a machine learning model to predict the probability of success for each student in Bac 2021 Mauritania. 
 
